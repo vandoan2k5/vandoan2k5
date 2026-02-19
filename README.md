@@ -1,7 +1,7 @@
 # Hi there, I'm Doan Van 👋
 ### AI Engineer | Computer Vision & NLP Enthusiast
 
-I am an **AI Engineer** with over 1 year of professional experience, starting my journey with research and projects at the **PTIT AI LAB**. My core focus lies in optimizing and deploying Deep Learning models into real-world production environments, specifically targeting resource-constrained hardware (Edge AI).
+I am an **AI Engineer** with over 1 year of professional experience. My core focus lies in optimizing and deploying Deep Learning models into real-world production environments, specifically targeting resource-constrained hardware (Edge AI).
 
 ---
 
